@@ -1,0 +1,7 @@
+{
+  "update_check_interval": 2,
+  "channel_id": "xxxxxxxxxxxxxxxxxxx",
+  "servers": {
+    "1": "path_to_ranks.json"
+  }
+}
